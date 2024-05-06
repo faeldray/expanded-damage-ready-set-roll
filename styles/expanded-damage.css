@@ -6,9 +6,9 @@
 	grid-template-rows: 0fr;
 }
 
-.rsr-section-damage .dice-roll .dice-total .dice-total::after {
+.rsr-section-damage .dice-roll .dice-total::after {
 	transform: rotate(-90deg);
 }
-.rsr-section-damage .dice-roll.expanded .dice-total .dice-total::after {
+.rsr-section-damage .dice-roll.expanded .dice-total::after {
 	transform: rotate(0deg);
 }

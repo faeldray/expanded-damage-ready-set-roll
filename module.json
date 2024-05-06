@@ -6,6 +6,9 @@
     "minimum": "11",
     "verified": "11"
   },
+  "styles": [
+    "styles/expanded-damage.css"
+  ],
   "relationships": {
     "requires": [
       {
