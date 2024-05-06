@@ -1,0 +1,27 @@
+{
+  "id": "expanded-damage-ready-set-roll",
+  "title": "Expanded Damage (Ready Set Roll)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "ready-set-roll-5e",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "A simple add-on for Ready Set Roll that expands damage dice rolls by default. They can still be collapsed manually.",
+  "authors": [
+    {
+      "name": "Faeldray",
+      "url": "https://github.com/faeldray",
+      "discord": "faeldray"
+    }
+  ],
+  "url": "https://github.com/faeldray/expanded-damage-ready-set-roll"
+}

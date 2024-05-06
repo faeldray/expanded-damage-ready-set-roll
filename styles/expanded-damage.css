@@ -1,0 +1,14 @@
+.rsr-section-damage .dice-roll .dice-result .dice-tooltip-collapser {
+	grid-template-rows: 1fr;
+}
+
+.rsr-section-damage .dice-roll.expanded .dice-result .dice-tooltip-collapser {
+	grid-template-rows: 0fr;
+}
+
+.rsr-section-damage .dice-roll .dice-total .dice-total::after {
+	transform: rotate(-90deg);
+}
+.rsr-section-damage .dice-roll.expanded .dice-total .dice-total::after {
+	transform: rotate(0deg);
+}
